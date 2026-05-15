@@ -1,2 +1,4 @@
 User-agent: *
 Allow: /
+
+Sitemap: https://agen69-info.github.io/agen69-website/sitemap.xml
